@@ -1,1 +1,1 @@
-[![Demo CountPages alpha](bg.mp4)
+<video src='bg.mp4' width=180/>
